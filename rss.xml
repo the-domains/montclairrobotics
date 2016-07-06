@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MontclairRobotics]]></title>
+        <description><![CDATA[MontclairRobotics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jul 2016 01:45:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Team 555 wins 2nd Place award]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02e2e117-03f7-4a87-9410-e6bedbbe919c.jpg">]]></description>
+            <link>undefinedteam-555-wins-2nd-place-award/index.html</link>
+            <guid isPermaLink="false">aa625025-b1b7-4b93-a92e-b57f9a1f4166</guid>
+            <pubDate>Wed, 06 Jul 2016 01:45:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
